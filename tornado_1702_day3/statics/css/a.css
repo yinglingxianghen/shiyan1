@@ -1,0 +1,8 @@
+/*.ul li{ float: left}*/
+*{
+    position: absolute;
+
+    background-color: black;
+    margin:2350px;
+    float: left;
+}
